@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karuppuvk
 - 👀 I’m interested in coding and some stuffs
-- 🌱 I’m currently learning ui ux 
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on realtime projects 
 - 📫 How to reach me skaruppu869@gmail.com
 - 😄 Pronouns: clueless coder
